@@ -98,12 +98,6 @@ and your response with appear in the window
    sound with a quick voice test:
    just hit the Test voice button to test any voice you picked
    once done you can just hit the close button
-
-8. to Analyze images or file
-   Note: you must have a LM Studio Vision model for this to work
-   hit the upload button select you image or file
-   the Ai with acknowledge what you did and then you tell the Ai
-   to analyze it or what you want it to do for you.
  
 
 _________________________________________________________________________________________
@@ -125,9 +119,6 @@ ________________________________________________________________________________
 5. test voices
    you can quickly listen to a voices 
    with the test voice button
-
-6. analyze images or file
-   if using a Ai vision model
 
 __________________________________________________________________________________________
 
@@ -183,4 +174,5 @@ This is the default endpoint for LM Studio's local server
 try 
 Default endpoint: http://localhost:1234/v1
 if you got LM studio install and running
+
 _______________________________________________________________________________________
